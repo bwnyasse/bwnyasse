@@ -44,3 +44,6 @@ I define myself as a passionate computer scientist who believes that everyone ha
 
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bwnyasse&layout=compact)][github]-->
+
+[homepage]: https://bwnyasse.net
+[twitter]: https://twitter.com/bwnyasse
