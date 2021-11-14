@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I'm [Boris-Wilfried][homepage]
 
-I define myself as a passionate computer scientist who believes that everyone has an exceptional talent. I enjoy creating an environment where continuous learning has its place. I am a computer scientist who is always thirsty for knowledge and prefers to proactively try new possibilities.  One of the goals is to help others progress and to be a team player.
+I define myself as a passionate computer scientist who believes that everyone has an exceptional talent. I am always thirsty for knowledge and prefers to proactively try new possibilities.  One of the goals is to help others progress and to be a team player.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bwnyasse?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] 
 
