@@ -34,7 +34,7 @@ I define myself as a passionate computer scientist who believes that everyone ha
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Canada_%28leaf%29.svg/985px-Flag_of_Canada_%28leaf%29.svg.png" height="30em" align="center" alt="Canada" title="Canada"/>](https://www.canada.ca/fr.html)  I'm living in Montreal  
 
 
-### I'm Currently
+## ⬆ I'm Currently
 
 - [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professionnal Google Cloud Architect  
  
