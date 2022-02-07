@@ -42,6 +42,8 @@ I define myself as a passionate computer scientist who believes that everyone ha
 
 - Mentoring budding programmers
 
+- Learning Blockchain, mastering Ethereum and Solidity programming
+
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bwnyasse&layout=compact)][github]-->
 
