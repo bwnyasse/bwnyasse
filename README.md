@@ -29,7 +29,7 @@ I define myself as a passionate computer scientist who believes that everyone ha
 - [<img src="https://www.mgscreativa.com/images/stories/virtuemart/product/logo-blockchain6.png" height="30em" align="center" alt="Blockchain" title="Blockchain"/>]() 
  **Blockchain** & **Cryptomoney** Enthusiast 
 
-- [<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" height="30em" align="center" alt="Flutter logo SVG" title="Flutter logo SVG"/>](https://flutter.dev/) btw I am [Google Developer Expert](https://developers.google.com/community/experts/directory) for **Dart and Flutter**  
+- [<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" height="30em" align="center" alt="Flutter logo SVG" title="Flutter logo SVG"/>](https://flutter.dev/) [Google Developer Expert](https://developers.google.com/community/experts/directory) for **Dart and Flutter**  
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Canada_%28leaf%29.svg/985px-Flag_of_Canada_%28leaf%29.svg.png" height="30em" align="center" alt="Canada" title="Canada"/>](https://www.canada.ca/fr.html)  I'm living in Montreal  
 
