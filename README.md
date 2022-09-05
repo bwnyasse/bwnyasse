@@ -37,9 +37,11 @@ I define myself as a passionate computer scientist who believes that everyone ha
 
 - [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professionnal Google Cloud Architect  
  
-- Director and VP of Engineering at [Stack Labs Canada]((https://stack-labs.com))
+- Directof of Software Engineering
 
 - Mentoring budding programmers
+
+- Improving my skills to become a better leader in IT
 
 - Learning Blockchain, mastering Ethereum and Solidity programming
 
