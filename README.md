@@ -24,7 +24,7 @@ I define myself as a passionate computer scientist who believes that everyone ha
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * 🌍  I'm based in Montreal, QC | Canada
-* 🖥️  See my profile at [Buildspace](https://buildspace.so/u/f89ce856-36e8-4029-a14d-04f93ff35a57)
+* 🖥️  See my profile at [google.dev](https://g.dev/bwnyasse)
 * 🤝  I'm open to collaborating on cool shit
 * [<img src="https://www.pngkit.com/png/full/143-1436083_computer-remix-big-image-png-clip-art-computer.png" height="30em" align="center" alt="Computer" title="Computer"/>](https://github.com/bwnyasse/) Passionate Software Developer
 * [<img src="https://www.mgscreativa.com/images/stories/virtuemart/product/logo-blockchain6.png" height="30em" align="center" alt="Blockchain" title="Blockchain"/>]() 
@@ -42,8 +42,6 @@ I define myself as a passionate computer scientist who believes that everyone ha
 - Mentoring budding programmers
 
 - Improving my skills to become a better leader in IT
-
-- Learning Blockchain, mastering Ethereum and Solidity programming
 
 ### Socials
 
