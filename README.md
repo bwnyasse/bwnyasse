@@ -37,9 +37,9 @@ I define myself as a passionate computer scientist who believes that everyone ha
 
 - [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professionnal Google Cloud Architect  
  
-- Directof of Software Engineering
+- Director of Software Engineering
 
-- Mentoring budding programmers
+- Mentoring budding developers
 
 - Improving my skills to become a better leader in IT
 
