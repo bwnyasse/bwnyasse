@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 I define myself as a passionate computer scientist who believes that everyone has an exceptional talent. I am always thirsty for knowledge and prefers to proactively try new possibilities.  One of the goals is to help others progress and to be a team player.
 
-[![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40bwnyasse-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/bwnyasse)
+<a href="https://twitter.com/bwnyasse" target="_blank">![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40bwnyasse-1DA1F2?logo=twitter&style=for-the-badge)</a>
 
-[![Linkedin Follow](https://img.shields.io/badge/Follow%20me%20on%20Linkedin-1DA1F2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bwnyasse/)
+<a href="https://www.linkedin.com/in/bwnyasse/" target="_blank">![Linkedin Follow](https://img.shields.io/badge/Follow%20me%20on%20Linkedin-1DA1F2?logo=linkedin&style=for-the-badge)</a>
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
