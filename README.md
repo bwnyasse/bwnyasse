@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 I define myself as a passionate computer scientist who believes that everyone has an exceptional talent. I am always thirsty for knowledge and prefers to proactively try new possibilities.  One of the goals is to help others progress and to be a team player.
 
-[![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40bwnyasse-1DA1F2?logo=twitter&style=for-the-badge)][twitter] 
+![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40bwnyasse-1DA1F2?logo=twitter&style=for-the-badge)
+
+![Linkedin Follow](https://img.shields.io/badge/Follow%20me%20on%20Linkedin-1DA1F2?logo=linkedin&style=for-the-badge)
+
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * 🌍  I'm based in Montreal, QC | Canada
