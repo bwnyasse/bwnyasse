@@ -1,54 +1,36 @@
-<!--
-**bwnyasse/bwnyasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="hello.png" width="150" height="150" alt="hi">
+  <br>
+  <h3>Greetings, I'm Boris-Wilfried! 👋</h3>
+</div>
 
-Here are some ideas to get you started:
+I'm a passionate computer scientist with a firm belief in the extraordinary potential within each individual. My thirst for knowledge drives me to explore new horizons and embrace diverse opportunities. Collaborative and committed to fostering growth, I aspire to contribute positively to every team I am part of.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+- Twitter: [Follow @bwnyasse](https://twitter.com/bwnyasse)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bwnyasse/)
 
-<img align="left" width="150" height="150" alt="hi" src="hello.png"/>
-<br>
+### Brief Introduction
 
-### I'm [Boris-Wilfried][homepage]
+- 📍 Based in Montreal, QC, Canada
+- 🖥️ Visit my profile at [google.dev](https://g.dev/bwnyasse)
+- 🤝 Open to engaging in impactful collaborations
+- 💼 Director of Software Engineering
+- 🚀 Google Developer Expert for Dart and Flutter
+- 🔮 Passion for Generative AI (OpenAI and PaLM)
 
-I define myself as a passionate computer scientist who believes that everyone has an exceptional talent. I am always thirsty for knowledge and prefers to proactively try new possibilities.  One of the goals is to help others progress and to be a team player.
+### Current Focus
 
-<a href="https://twitter.com/bwnyasse" target="_blank">![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40bwnyasse-1DA1F2?logo=twitter&style=for-the-badge)</a>
+- [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professional Google Cloud Architect  
+- Engaged in mentoring aspiring developers
+- Dedicated to enhancing leadership capabilities within the realm of IT
 
-<a href="https://www.linkedin.com/in/bwnyasse/" target="_blank">![Linkedin Follow](https://img.shields.io/badge/Follow%20me%20on%20Linkedin-1DA1F2?logo=linkedin&style=for-the-badge)</a>
+### Connect With Me
 
-### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-* 🌍  I'm based in Montreal, QC | Canada
-* 🖥️  See my profile at [google.dev](https://g.dev/bwnyasse)
-* 🤝  I'm open to collaborating on cool shit
-* [<img src="https://www.pngkit.com/png/full/143-1436083_computer-remix-big-image-png-clip-art-computer.png" height="30em" align="center" alt="Computer" title="Computer"/>](https://github.com/bwnyasse/) Passionate Software Developer
-* [<img src="https://www.mgscreativa.com/images/stories/virtuemart/product/logo-blockchain6.png" height="30em" align="center" alt="Blockchain" title="Blockchain"/>]() 
- **Blockchain** & **Cryptomoney** Enthusiast 
-* [<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" height="30em" align="center" alt="Flutter logo SVG" title="Flutter logo SVG"/>](https://flutter.dev/) [Google Developer Expert](https://developers.google.com/community/experts/directory) for **Dart and Flutter**  
- 
-
-
-### ⬆ I'm Currently
-
-- [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professionnal Google Cloud Architect  
- 
-- Director of Software Engineering
-
-- Mentoring budding developers
-
-- Improving my skills to become a better leader in IT
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/bwnyasse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bwnyasse/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left">
+  <a href="https://www.github.com/bwnyasse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/bwnyasse/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 <!--
 ### Badges
