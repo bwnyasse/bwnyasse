@@ -1,35 +1,53 @@
+<!-- Header Section -->
 <div align="center">
-  <br>
-  <h3>Hey there, I'm Boris-Wilfried! 👋🏾</h3>
+<img src="hello.png" width="150" height="150" alt="hi">
+<h1>Hey, I'm Boris-Wilfried! 👋🏾</h1>
 </div>
 
-I'm a passionate computer scientist who believes everyone possesses exceptional talents. I'm constantly thirsty for knowledge and enjoy proactively exploring new possibilities. One of my goals is to help others progress and to be a dedicated team player.
+<!-- Two-Column Table -->
+<table style="width:100%">
+<tr>
+<td valign="top" width="50%">
+<!-- Introduction Section -->
+<h2>About Me</h2>
 
-Connect with me:
-- Twitter: [Follow @bwnyasse](https://twitter.com/bwnyasse)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bwnyasse/)
-<table style="border-collapse: collapse;">
-  <tr>
-    <td valign="top">
-      <h3>About Me</h3>
-      <ul>
-        <li>🌍 Based in Montreal, QC, Canada</li>
-        <li>🖥️ Check out my profile at <a href="https://g.dev/bwnyasse">google.dev</a></li>
-        <li>🤝 Open to collaborating on exciting projects</li>
-        <li>💻 Passionate Software Developer</li>
-        <li>🌐 Blockchain & Cryptocurrency Enthusiast</li>
-        <li>🚀 Google Developer Expert for Dart and Flutter</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Currently</h3>
-      <ul>
-        <li><a href="https://cloud.google.com/"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/></a> Certified Professional Google Cloud Architect</li>
-        <li> 👨🏾‍💻 Director of Software Engineering</li>
-        <li>Mentoring budding developers</li>
-        <li>Improving leadership skills in IT</li>
-      </ul>
-    </td>
-  </tr>
+I'm a passionate computer scientist and a Google Developer Expert (GDE) in Dart and Flutter. With over a decade of experience in software development, I've had the privilege of working in various roles and industries.
+
+- 🌍 Based in Montreal, QC, Canada
+- 🖥️ Check out my profile at [google.dev](https://g.dev/bwnyasse)
+- 🤝 Open to collaborating on exciting projects
+- 💼 Senior Director of Software Development at Datavalet Technologies Inc
+- 💻 Passionate Software Developer
+- 🌐 Blockchain & Cryptocurrency Enthusiast
+- 🚀 Google Developer Expert for Dart and Flutter
+</td>
+<td valign="top" width="50%">
+<!-- Current Focus Section -->
+<h2>Currently</h2>
+
+I'm constantly evolving and staying updated with the latest technologies. Here's what's keeping me busy:
+
+- [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professional Google Cloud Architect
+- 👨🏾‍💻 Director of Software Engineering
+- Mentoring and guiding aspiring developers
+- Elevating my leadership skills in IT
+</td>
+</tr>
 </table>
 
+<!-- Redesigned Connect Section -->
+<div align="left">
+<h2>Connect with Me</h2>
+
+Let's connect, learn, and collaborate:
+
+- Twitter: [Follow @bwnyasse](https://twitter.com/bwnyasse)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bwnyasse)
+- Google Developer Expert Profile: [View my GDE Profile](https://developers.google.com/community/experts/directory/profile/profile-boriswilfried_nyasse)
+</div>
+
+<!-- Footer Section -->
+<div align="center">
+<br>
+<p>Thanks for visiting! Feel free to explore my projects below. 🚀</p>
+</div>
