@@ -25,7 +25,7 @@ Let's connect, learn, and collaborate:
 <p>
   <a href="https://www.twitter.com/bwnyasse"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/bwnyasse"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://developers.google.com/community/experts/directory/profile/profile-boriswilfried_nyasse"><img src="https://img.shields.io/badge/Google-Developer Expert Profile-blue" height=25></a>
+  <a href="https://developers.google.com/community/experts/directory/profile/profile-boriswilfried_nyasse"><img src="https://img.shields.io/badge/Google-GDEProfile-blue" height=25></a>
 </div>
 </td>
 <td valign="top" width="50%">
