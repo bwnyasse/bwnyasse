@@ -8,19 +8,28 @@ I'm a passionate computer scientist who believes everyone possesses exceptional 
 Connect with me:
 - Twitter: [Follow @bwnyasse](https://twitter.com/bwnyasse)
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/bwnyasse/)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top">
+      <h3>About Me</h3>
+      <ul>
+        <li>🌍 Based in Montreal, QC, Canada</li>
+        <li>🖥️ Check out my profile at <a href="https://g.dev/bwnyasse">google.dev</a></li>
+        <li>🤝 Open to collaborating on exciting projects</li>
+        <li>💻 Passionate Software Developer</li>
+        <li>🌐 Blockchain & Cryptocurrency Enthusiast</li>
+        <li>🚀 Google Developer Expert for Dart and Flutter</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Currently</h3>
+      <ul>
+        <li><a href="https://cloud.google.com/"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/></a> Certified Professional Google Cloud Architect</li>
+        <li> 👨🏾‍💻 Director of Software Engineering</li>
+        <li>Mentoring budding developers</li>
+        <li>Improving leadership skills in IT</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### About Me
-
-- 🌍 Based in Montreal, QC, Canada
-- 🖥️ Check out my profile at [google.dev](https://g.dev/bwnyasse)
-- 🤝 Open to collaborating on exciting projects
-- 💻 Passionate Software Developer
-- 🌐 Blockchain & Cryptocurrency Enthusiast
-- 🚀 Google Developer Expert for Dart and Flutter
-
-### Currently
-
-- [<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="30em" align="center" alt="Google Cloud" title="Google Cloud"/>](https://cloud.google.com/) Certified Professional Google Cloud Architect  
-- Director of Software Engineering
-- Mentoring budding developers
-- Improving leadership skills in IT
