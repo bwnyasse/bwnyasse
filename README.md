@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h3>Hey there, I'm Boris-Wilfried! 👋</h3>
+  <h3>Hey there, I'm Boris-Wilfried! 👋🏾</h3>
 </div>
 
 I'm a passionate computer scientist who believes everyone possesses exceptional talents. I'm constantly thirsty for knowledge and enjoy proactively exploring new possibilities. One of my goals is to help others progress and to be a dedicated team player.
