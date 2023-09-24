@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/bwnyasse/bwnyasse/assets/5323628/c7a2a11c-065b-4982-b329-6031226a9e0c)" alt="hi">
-</div>
+![Welcome to my github](https://github.com/bwnyasse/bwnyasse/assets/5323628/7df98694-b650-425d-9746-26fafef4a1e0)
 
 <!-- Two-Column Table -->
 <table style="width:100%">
