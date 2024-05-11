@@ -40,6 +40,7 @@ I'm constantly evolving and staying updated with the latest technologies. Here's
 
 <h2>Latest Blog Posts</h2>
   <ul>
+    <li><a href="https://bwnyasse.net/post/22-google-cloud-next24/">My Takeaways from Google Cloud Next24</li>
     <li><a href="https://bwnyasse.net/post/14-google-cloud-next23/">My Takeaways from Google Cloud Next23</a></li>
     <li><a href="https://bwnyasse.net/post/13-design-pattern-part-1/">Design Pattern: The Sliding Window in Dart</a></li>
     <li><a href="https://bwnyasse.net/post/12-gcloud-dart-faas-part-1/">Google Cloud Pipeline with Dart and FaaS</a></li>
