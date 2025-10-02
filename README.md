@@ -7,14 +7,14 @@
 <!-- Introduction Section -->
 <h2>About Me</h2>
 
-I'm a passionate computer scientist and a Google Developer Expert (GDE) in Dart and Flutter. With over a decade of experience in software development, I've had the privilege of working in various roles and industries.
+I am a Senior Engineering Leader who combines enterprise-level execution with the agility of a tech founder. My international journey in tech has allowed me to build and scale both technology and teams across diverse industries. As a Google Developer Expert (GDE), I'm passionate about innovation and community.
 
 - 🌍 Based in Montreal, QC, Canada
-- 🚀 Google Developer Expert for Dart and Flutter
+- 🚀 Google Developer Expert (GDE)
+- 💡 Proven experience co-founding and scaling tech ventures.
+- 📈 Expertise in leading large-scale cloud transformations.
+- 🤝 Open to collaborating on impactful projects.
 - 🖥️ Check out my profile at [google.dev](https://g.dev/bwnyasse)
-- 🤝 Open to collaborating on exciting projects
-- 💻 Passionate Software Developer
-- 🌐 Blockchain & Cryptocurrency Enthusiast
 
 <h2>Connect with Me</h2>
 
@@ -24,19 +24,19 @@ Let's connect, learn, and collaborate:
   <a href="https://www.twitter.com/bwnyasse"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/bwnyasse"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://developers.google.com/community/experts/directory/profile/profile-boriswilfried_nyasse"><img src="https://img.shields.io/badge/Google-GDEProfile-blue" height=25></a>
-</div>
+</p>
 </td>
 <td valign="top" width="50%">
 <!-- Current Focus Section -->
-<h2>Currently</h2>
+<h2>My Focus</h2>
 
-I'm constantly evolving and staying updated with the latest technologies. Here's what's keeping me busy:
+My work revolves around building robust systems and empowering people. Here are my core activities:
 
-- Certified Professional Google Cloud Architect
-
-- 💼 Senior Director of Software Development at Datavalet Technologies Inc
-- Mentoring and guiding aspiring developers
-- Elevating my leadership skills in IT
+- 🏗️ Architecting scalable, cloud-native SaaS solutions.
+- ☁️ Leveraging Google Cloud and AI to solve complex business problems.
+- 멘 Mentoring and developing the next generation of tech talent.
+- ✍️ Sharing knowledge through my blog and at tech conferences.
+- 📜 Certified Professional Google Cloud Architect.
 
 <h2>Latest Blog Posts</h2>
   <ul>
